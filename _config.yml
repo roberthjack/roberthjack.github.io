@@ -2,12 +2,12 @@
 email: okay@samesies.io
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
-name: Thomas Vaeth
+name: Robert Jack
 title: The Barber Theme
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Robert Jack is a researcher and sound designer. He completed his PhD on tactile feedback in digital musical instrument design as part of the Augmented Instruments Lab at Queen Mary University of London. He is one of the founders of Bela where he now works on research and educational activities including running blog.bela.io.
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
@@ -57,7 +57,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
