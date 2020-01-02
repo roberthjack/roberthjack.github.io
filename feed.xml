@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Barber Theme</title>
-    <description>Robert Jack is a researcher and sound designer. He completed his PhD on tactile feedback in digital musical instrument design as part of the Augmented Instruments Lab at Queen Mary University of London. He is one of the founders of Bela where he now works on research and educational activities including running blog.bela.io.
+    <title>Robert Jack</title>
+    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 </description>
     <link>http://barber.samesies.io</link>
     <atom:link href="http://barber.samesies.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jan 2020 10:58:05 +0100</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 10:58:05 +0100</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2020 11:28:29 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2020 11:28:29 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
