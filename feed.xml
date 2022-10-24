@@ -2,23 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ROBERT JACK</title>
-    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+    <description>Robert Jack is sound designer and music technologist living in Palermo, Italy. Here is his portfolio.
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Sep 2021 12:01:57 +0200</pubDate>
-    <lastBuildDate>Tue, 07 Sep 2021 12:01:57 +0200</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://robertjack.org</link>
+    <atom:link href="http://robertjack.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Oct 2022 22:22:04 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 22:22:04 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Повик by Стотројка | Kanal 103</title>
+        <description>&lt;p&gt;Track on Various Artists Compilation (Stotrojka 009)&lt;/p&gt;
+
+&lt;p&gt;On 1st of May 2021 our beloved radio Kanal 103 turned 30 years old, and we “celebrated” by broadcasting 24 hours of white noise. We are no strangers to all sorts of vicissitudes, but this is a particularly dark moment in our long and turbulent history: we haven’t been broadcasting on FM for more than two years, and although the pandemic has been such a rich moment for the radio, we need to get back on our feet and get Kanal 103 back on the airwaves.&lt;/p&gt;
+
+&lt;p&gt;We made a call to action. We shared our “very own” white noise with the radio’s friends, lovers and allies, inviting them to use it as a starting point and compose a music piece for us: to make virtue out of necessity, to make something out of nothing and also to have some fun.&lt;/p&gt;
+
+&lt;p&gt;This compilation is their overwhelming response.&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=3669936309/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4067749668/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://stotrojka.bandcamp.com/album/-&quot;&gt;Повик by Robert Jack&lt;/a&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 18 Mar 2021 00:00:00 +0100</pubDate>
+        <link>http://robertjack.org/2021/03/18/cairo-montenotte-kanal-103/</link>
+        <guid isPermaLink="true">http://robertjack.org/2021/03/18/cairo-montenotte-kanal-103/</guid>
+        
+        <category>SOUND</category>
+        
+        
+      </item>
     
       <item>
         <title>Romika TV | Federico Lupo</title>
-        <description>&lt;p&gt;Collaboration with Federico Lupo for Romika TV Valentines Edition.&lt;/p&gt;
+        <description>&lt;p&gt;Collaboration with Federico Lupo for Romika TV Valentines Edition 2021. Music is a montage from an improvisation on the Magnetic Resonator Piano recorded at the Centre for Digital Music in London, video all shot in Palermo by &lt;a href=&quot;https://www.vonholdenstudio.com/&quot;&gt;Federico Lupo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u-JtmOy0his&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Oq14Jc7UbIo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 18 Mar 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2021/03/18/federico-lupo-cairo-montenotte-romika-tv/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/03/18/federico-lupo-cairo-montenotte-romika-tv/</guid>
+        <link>http://robertjack.org/2021/03/18/federico-lupo-cairo-montenotte-romika-tv/</link>
+        <guid isPermaLink="true">http://robertjack.org/2021/03/18/federico-lupo-cairo-montenotte-romika-tv/</guid>
         
         <category>SOUND</category>
         
@@ -27,13 +48,13 @@
     
       <item>
         <title>Design Products &amp; Futures | Royal College of Art</title>
-        <description>&lt;p&gt;Since March 2020 I have been tutoring on the Design Products MA at the Royal College of Art. I provide the students with tutoring related to physical computing, PCB design and digital manufacturing.&lt;/p&gt;
+        <description>&lt;p&gt;Since March 2020 I have been tutoring on the Design Products MA at the Royal College of Art. I provide the students with tutoring related to sound and physical computing, PCB design and digital manufacturing.&lt;/p&gt;
 
 &lt;p&gt;To find out more about the course see &lt;a href=&quot;https://www.rca.ac.uk/schools/school-of-design/design-products/&quot;&gt;https://www.rca.ac.uk/schools/school-of-design/design-products/&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/03/10/royal-college-of-art-design-products-and-futures/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/10/royal-college-of-art-design-products-and-futures/</guid>
+        <link>http://robertjack.org/2020/03/10/royal-college-of-art-design-products-and-futures/</link>
+        <guid isPermaLink="true">http://robertjack.org/2020/03/10/royal-college-of-art-design-products-and-futures/</guid>
         
         <category>RESEARCH &amp; TEACHING</category>
         
@@ -42,21 +63,23 @@
     
       <item>
         <title>Instruments for Stroke Rehabilitation | Chelsea and Westminster Hospital</title>
-        <description>&lt;p&gt;Since October 2019 I have been working collaboratively with Jacob Harrison and the arts charity &lt;a href=&quot;https://www.cwplus.org.uk/&quot;&gt;CW+&lt;/a&gt; on the development of a new musical instrument designed specifically to support upper limb exercises and rehabilitation. CW+ are an organisation that run a programme of arts and engagement events at Chelsea and Westminster Hospital trust where the instrument was first trialled on the Neil Gwynne neurological ward.&lt;/p&gt;
+        <description>&lt;p&gt;In 2019-20 I worked collaboratively with Jacob Harrison and the arts charity &lt;a href=&quot;https://www.cwplus.org.uk/&quot;&gt;CW+&lt;/a&gt; on the development of a new musical instrument designed specifically to support upper limb exercises and rehabilitation. CW+ are an organisation that run a programme of arts and engagement events at Chelsea and Westminster Hospital trust where the instrument was first trialled on the Neil Gwynne neurological ward.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/cw-plus/working-on-the-instrument.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/cw-plus/instrument.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;upper-limb-rehabilitation-through-music&quot;&gt;Upper limb rehabilitation through music&lt;/h3&gt;
 
-&lt;p&gt;According to the Neurological Alliance’s &lt;a href=&quot;https://www.neural.org.uk/wp-content/uploads/2019/07/neuro-numbers-2019.pdf&quot;&gt;‘Neuro Number 2019’ report&lt;/a&gt;, in England there were 80,000 newly diagnosed incidences of stroke in the year 2016-17.  Weakness or paralysis on one side of the body is a common side-effect, with &lt;a href=&quot;https://www.stroke.org.uk/sites/default/files/f33_physical_effects_of_stroke_6pp_apr2016_web.pdf&quot;&gt;The Stroke Association&lt;/a&gt; reporting that over three quarters of stroke survivors have arm weakness.  At CW+ we believe that engagement with the arts can help alleviate some of the challenges faced by our patients, and research suggests that this is also the case for stroke patients, with &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/23533954&quot;&gt;a study in 2013&lt;/a&gt; indicating that piano playing can have benefits in the recovery of upper extremity function.&lt;/p&gt;
+&lt;p&gt;According to the Neurological Alliance’s &lt;a href=&quot;https://www.neural.org.uk/wp-content/uploads/2019/07/neuro-numbers-2019.pdf&quot;&gt;‘Neuro Number 2019’ report&lt;/a&gt;, in England there were 80,000 newly diagnosed incidences of stroke in the year 2016-17.  Weakness or paralysis on one side of the body is a common side-effect, with &lt;a href=&quot;https://www.stroke.org.uk/sites/default/files/f33_physical_effects_of_stroke_6pp_apr2016_web.pdf&quot;&gt;The Stroke Association&lt;/a&gt; reporting that over three quarters of stroke survivors have arm weakness.  CW+ believe that engagement with the arts can help alleviate some of the challenges faced patients, and research suggests that this is also the case for stroke patients, with &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/23533954&quot;&gt;a study in 2013&lt;/a&gt; indicating that piano playing can have benefits in the recovery of upper extremity function.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/cw-plus/cw-plus-design-spread.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/cw-plus/workshop.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The design of the new instrument evolved through regular meetings with the stroke specialist therapy teams at Chelsea and Westminster Hospital, and was finally developed into the playable prototype which can be seen here.  It is played simply by touching the brass rods on the surface, each of which produces a different note.  Its size and shape allow it to be accessible to patients with a wide range of upper-limb ability, incorporating full arm extensions and intricate finger work, and it is compliant with hospital infection control protocols.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cw-plus/finished-instrument.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/10/10/stroke-rehabilitation-chelsea-westminster-hospital/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/10/stroke-rehabilitation-chelsea-westminster-hospital/</guid>
+        <link>http://robertjack.org/2019/10/10/stroke-rehabilitation-chelsea-westminster-hospital/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/10/10/stroke-rehabilitation-chelsea-westminster-hospital/</guid>
         
         <category>INSTRUMENTS</category>
         
@@ -66,23 +89,42 @@
       </item>
     
       <item>
-        <title>It's About Time | Marysia Lewandowska | Venice Biennale</title>
-        <description>&lt;p&gt;A Special Project curated by Ralph Rugoff for the 58th International Art Exhibition – La Biennale di Venezia, May You Live in Interesting Times occupies Pavilion of Applied Arts at the Arsenale, which since 2016 has been shared by  La Biennale and the Victoria and Albert Museum.&lt;/p&gt;
+        <title>It&apos;s About Time | Marysia Lewandowska | Venice Biennale</title>
+        <description>&lt;p&gt;Sound design for Marysia Lewandowska’s pavilion at the Venice Biennale 2019.
+A Special Project curated by Ralph Rugoff for the 58th International Art Exhibition – La Biennale di Venezia, May You Live in Interesting Times occupies Pavilion of Applied Arts at the Arsenale, which since 2016 has been shared by  La Biennale and the Victoria and Albert Museum.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/344357084?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;640&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The installation explores the ways in which the archival trace can be used as a means of identifying, unraveling, and reconstructing historical narratives. Comprised of an audio play and a short film edited from archival material, It’s About Time imagines a radical alternative history of the foundation of La Biennale, with women at its centre.&lt;/p&gt;
 
 &lt;h3 id=&quot;pavilion-of-applied-arts&quot;&gt;Pavilion of Applied Arts&lt;/h3&gt;
 &lt;p&gt;The project takes as a point of departure archival records of meetings held between Venice’s civic, intellectual, and business leaders, and the Mayor, poet Riccardo Selvatico. These early discussions, animated by ideas of civic pride, moral philanthropy, and public good, led to the creation of La Biennale di Venezia in 1895.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/images/venice/FILM-3.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Further archival research revealed glimpses of a set of parallel conversations taking place at the same time in Venice led by the fearless Duchess Felicita Bevilacqua La Masa, whose 1899 bequest secured Ca’Pesaro for Galleria d’Arte Moderna and provided studios for young artists. While the status of their proposals remains unclear, the notion of female representatives meeting to discuss art and philanthropy opened up a new realm of possibilities, introducing the role of dissent in shaping contemporary culture.&lt;/p&gt;
 
 &lt;p&gt;The central element in the development of the project was a process of a collective script writing. A group of Italian women practitioners: Lucia Cavorsi; Giulia Damiani; Valeria Facchin; Alice Ongaro; Carlotta Pierleoni; Flora Pitrolo; Silvia Tanzini based in London together with the art historian Clarissa Ricci  and scholar Francesca Tarocco in Venice speculate on a scenario in which the foundations of La Biennale were built by women, allowing the sound of their ‘unheard voices’ to be encountered for the first time. Asserting their own presence through invention and self-discovery, the resulting recording of their debate resonates within the immersive space placed inside the Pavilion, drawing attention to the mechanisms of how knowledge is created and disseminated.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/venice/installazione.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PRESS&lt;/p&gt;
+
+&lt;p&gt;Women Looking at Women &lt;a href=&quot;https://frieze.com/article/pictures-women-looking-women-19th-venice-biennale&quot;&gt;Frieze&lt;/a&gt;;&lt;/p&gt;
+
+&lt;p&gt;The Revisionist &lt;a href=&quot;https://www.vam.ac.uk/articles/la-biennale-di-venezia-2019&quot;&gt;V&amp;amp;A Magazine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Is the Future Female at the Venice Biennale? &lt;a href=&quot;Sotheby’s Institute of Art&quot;&gt;Sotheby’s Institute of Art&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The difficult buisiness of archiving the Biennale &lt;a href=&quot;https://www.ft.com/content/b99686d2-682b-11e9-b809-6f0d2f5705f6&quot;&gt;FT&lt;/a&gt;;&lt;/p&gt;
+
+&lt;p&gt;Quell’Archivio E Un Capolavoro &lt;a href=&quot;https://rep.repubblica.it/pwa/venerdi/2019/05/06/news/biennale_venezia_2019_marysia_lewandowska_archivi-224701578/&quot;&gt;La Repubblica&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.veneziatoday.it/attualita/biennale-arte-venezia-settimana-6-maggio-2019.html&quot;&gt;Venezia Today&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/venice-biennale/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/venice-biennale/</guid>
+        <link>http://robertjack.org/2019/05/11/venice-biennale/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/venice-biennale/</guid>
         
         <category>SOUND</category>
         
@@ -90,45 +132,14 @@
       </item>
     
       <item>
-        <title>Pepper | Eurorack Module for Bela</title>
-        <description>&lt;p&gt;Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.&lt;/p&gt;
+        <title>Pepper | Eurorack Synthesiser Module for Bela</title>
+        <description>&lt;p&gt;Pepper is an open source programmable Eurorack module which I designed alongside Giulio Moro, Adan Benito, Astrid Bin and Andrew McPherson from the Bela team. You can buy the &lt;a href=&quot;https://eu.shop.bela.io/collections/modular/products/pepper-full-diy-kit&quot;&gt;full DIY kit&lt;/a&gt; for soldering together at home.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;subway-tile&quot;&gt;Subway tile&lt;/h3&gt;
-&lt;p&gt;Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/venice/installazione.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s.
-&lt;cite&gt;Man braid&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;subway-tile-1&quot;&gt;Subway tile&lt;/h4&gt;
-&lt;p&gt;Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.&lt;/p&gt;
-
-&lt;p&gt;Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.&lt;/p&gt;
-
-&lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VLHxIMeSU-c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/pepper-eurorack-module/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/pepper-eurorack-module/</guid>
+        <link>http://robertjack.org/2019/05/11/pepper-eurorack-module/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/pepper-eurorack-module/</guid>
         
         <category>INSTRUMENTS</category>
         
@@ -137,56 +148,39 @@
     
       <item>
         <title>Rooms for Secrets | Antonio Syxty | Teatro Litta Milano</title>
-        <description>&lt;p&gt;Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/rooms-for-secrets/il-corpo-muro.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;subway-tile&quot;&gt;Subway tile&lt;/h3&gt;
-&lt;p&gt;Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.&lt;/p&gt;
+        <description>&lt;p&gt;Sound design for performance by Antonio Syxty at Teatro Litta, Milano, 2019.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/rooms-for-secrets/il-corpo-2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
+&lt;p&gt;Rooms For Secrets is a project of environmental performance created by Antonio Syxty who occupies an entire floor of an early twentieth century building with the intent of governing the public between false values and unexpected interpretations.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s.
-&lt;cite&gt;Man braid&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;With the collaboration of Susanna Baccari.
+Text by Michele Zaffarano.
+Sound design by Robert Jack.&lt;/p&gt;
 
-&lt;h4 id=&quot;subway-tile-1&quot;&gt;Subway tile&lt;/h4&gt;
-&lt;p&gt;Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.&lt;/p&gt;
+&lt;h2 id=&quot;il-corpo&quot;&gt;Il corpo&lt;/h2&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W1C-ESIh-4w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;h2 id=&quot;il-dio&quot;&gt;Il dio&lt;/h2&gt;
+
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7pqmA4n2ZHI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;i-desideri&quot;&gt;I desideri&lt;/h2&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BwrRdjXGlu8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;h2 id=&quot;lo-spazio-1&quot;&gt;Lo spazio 1&lt;/h2&gt;
+
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n8AaGXjtXHs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;h2 id=&quot;lo-spazio-2&quot;&gt;Lo spazio 2&lt;/h2&gt;
+
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u-JtmOy0his&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.&lt;/p&gt;
-
-&lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/rooms-for-secrets/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/rooms-for-secrets/</guid>
+        <link>http://robertjack.org/2019/05/11/rooms-for-secrets/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/rooms-for-secrets/</guid>
         
         <category>SOUND</category>
         
@@ -195,23 +189,30 @@
     
       <item>
         <title>Tangibility and Richness in Digital Musical Instrument Design | Doctoral Thesis</title>
-        <description>&lt;p&gt;I completed my doctorate as part of the Augmented Instruments Lab at Queen Mary University supervised by Andrew McPherson.&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Musical ideas are prisoners, more than one might believe, of musical devices.
+— Pierre Schaeffer, 1977&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Expression in musical performance is deeply connected to the touch of the performer and the nuances of their control. Alongside hearing the haptic sense is the primary modality through which we engage with musical instruments. In fact learning a musical instrument can be understood as one of the most developed haptic cultural practices where years of practical and theoretical training reinforce sensorimotor pathways allowing us to perform complex music. Robert Jack, a PhD candidate at the augmented instruments lab, is researching the mechanisms of touch and how they relate to the design of digital musical instruments. When playing an acoustic instrument we get a great deal of rich sensory information from the part of our body which makes contact with the instrument (hands, fingertips, lips, shoulders). This haptic experience is integrated with the sound that the instrument produces, summing together to give the perception of exciting a note. &amp;lt;/&lt;/p&gt;
-
-&lt;p&gt;In the case of digital musical instruments, although touch-mediated interaction is still the primary means of control, there is no comparably rich physical experience from the instrument and little relationship between the sound of an instrument and its feel. This research focuses on the contact that a performer makes with an instrument, shifting the focus to the combination of auditory and haptic feedback that we get from an instrument and how they integrate with one another in the moment of excitation. This informs both the feel of the instrument, that is its immediate feedback to our haptic and auditory sense, and the mental model we have of that instrument, shaping the gestures that we use to control it and our internal representation of its mechanism. This research project aims to provide guidelines for designers on how to cater for the sense of touch in the process of designing digital musical instruments. As part of this project new musical instruments have been designed to investigate different aspects of touch in digital musical instrument performance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/phd/exploratory-techniques.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I completed my doctorate in 2018 as part of the &lt;a href=&quot;http://instrumentslab.org/index.html&quot;&gt;Augmented Instruments Lab&lt;/a&gt; at Queen Mary University supervised by &lt;a href=&quot;https://andrewmcpherson.org/bio&quot;&gt;Andrew McPherson&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;touch-and-design&quot;&gt;Touch and design&lt;/h3&gt;
 
-&lt;p&gt;My thesis focused on the contact that a performer makes with an instrument: the combination of auditory and haptic feedback that we get from an instrument. This is with the aim of informing design both in terms of the feel of an instrument, that is its immediate feedback to our haptic and auditory sense, and in terms of the mental model we have of that instrument, shaping the gestures that we use to control it and our internal representation of its mechanism. As part of my research I have designed new musical instruments to investigate different aspects of touch in digital musical instrument performance.&lt;/p&gt;
+&lt;p&gt;My thesis focused on the sense of touch and ideas of &lt;em&gt;tangibility&lt;/em&gt; in the design of digital musical instruments with the aim of informing design practices.&lt;/p&gt;
+
+&lt;p&gt;The sense of touch plays a fundamental role in musical performance: alongside hearing, it is the primary sensory modality used when interacting with musical instruments. Learning to play a musical instrument is one of the most developed haptic cultural practices, and within acoustic musical practice at large, the importance of touch and its close relationship to virtuosity and expression is well recognised.&lt;/p&gt;
+
+&lt;p&gt;With digital musical instruments – instruments involving a combination of sensors and a digital sound engine – touch-mediated interaction remains the foremost means of control, but the interfaces of such instruments do not yet engage with the full spectrum of sensorimotor capabilities of a performer. This poses compelling questions for digital instrument design: how does the nuance and richness of physical interaction with an instrument manifest itself in the digital domain? Which design parameters are most important for haptic experience, and how do these parameters affect musical performance?&lt;/p&gt;
+
+&lt;p&gt;As part of this research I designed new musical instruments to investigate different aspects of touch in digital musical instrument performance.&lt;/p&gt;
 
 &lt;p&gt;You can find my thesis and other publications &lt;a href=&quot;https://scholar.google.co.uk/citations?user=4UnLTw0AAAAJ&amp;amp;hl=en&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/phd/exploratory-techniques.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/phd-tangibility-and-richness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/phd-tangibility-and-richness/</guid>
+        <link>http://robertjack.org/2019/05/11/phd-tangibility-and-richness/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/phd-tangibility-and-richness/</guid>
         
         <category>RESEARCH &amp; TEACHING</category>
         
@@ -220,48 +221,21 @@
     
       <item>
         <title>Physical Interaction Design | Aalto University Helsinki</title>
-        <description>&lt;p&gt;In 2019 and 2020 I developed and taught a course in Physical Interaction Design at Aalto University, Helsinki.&lt;/p&gt;
+        <description>&lt;p&gt;From 2018 to 2021 I developed and taught a Master’s level course in Physical Interaction Design in the School of Arts, Design and Architecture at Aalto University, Helsinki.&lt;/p&gt;
 
-&lt;p&gt;The course was previously taught with Arduino by Koray Tahiroglu&lt;/p&gt;
+&lt;p&gt;This course aims to explore some of the core tools and critical concepts necessary for building new interactive devices using Bela and the computer music programming language, Pure Data. A version of the course is &lt;a href=&quot;https://learn.bela.io/tutorials/pure-data/fundamentals/course-introduction/&quot;&gt;available online&lt;/a&gt;. You can see the final projects the students create at the end of the course on this &lt;a href=&quot;https://blog.bela.io/aalto-physical-interaction-design/&quot;&gt;Teaching Spotlight blog post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;subway-tile&quot;&gt;Subway tile&lt;/h3&gt;
-&lt;p&gt;Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.&lt;/p&gt;
+&lt;p&gt;The course was previously taught using Arduino by Koray Tahiroglu&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/aalto/analog-output.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s.
-&lt;cite&gt;Man braid&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;subway-tile-1&quot;&gt;Subway tile&lt;/h4&gt;
-&lt;p&gt;Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.&lt;/p&gt;
+&lt;p&gt;The course aims to give artists, designers, musicians and makers of all types a good grounding in the tools they need to start creating with interactive sound projects, and the confidence to start creating their own projects. It is designed for learners with no previous experience in coding or circuit building, though it’s also great for experienced Pd programmers who want to learn about using Pd to program Bela or expand their hardware knowledge.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/aalto/helsinki-station.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.&lt;/p&gt;
-
-&lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/physical-interaction-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/physical-interaction-design/</guid>
+        <link>http://robertjack.org/2019/05/11/physical-interaction-design/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/physical-interaction-design/</guid>
         
         <category>RESEARCH &amp; TEACHING</category>
         
@@ -270,7 +244,7 @@
     
       <item>
         <title>Rehearsing the Museum | Marysia Lewandowska | Entrée Bergen</title>
-        <description>&lt;p&gt;A film project by Marysia Lewandowska. I provided sound design.&lt;/p&gt;
+        <description>&lt;p&gt;Sound design for a film by Marysia Lewandowska.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/RHM/Chinese-Gallery-KODE-Museum-Bergen.2.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
@@ -332,10 +306,27 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/RHM/Chinese-Gallery-KODE-Museum-Bergen.1.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/rehearsing-the-museum/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/rehearsing-the-museum/</guid>
+        <link>http://robertjack.org/2019/05/11/rehearsing-the-museum/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/rehearsing-the-museum/</guid>
         
         <category>SOUND</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bela | Open Source Platform for Instrument Design</title>
+        <description>&lt;p&gt;I am one of the creators and directors of Bela, a maker board for designing musical instruments. The company is currently my main focus and employment.&lt;/p&gt;
+
+&lt;p&gt;Read all about Bela on our website at &lt;a href=&quot;https://bela.io&quot;&gt;bela.io&lt;/a&gt; or have a look at &lt;a href=&quot;https://blog.bela.io&quot;&gt;blog.bela.io&lt;/a&gt; for hundreds of projects built with Bela from all around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bela/airharp.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
+        <link>http://robertjack.org/2019/05/11/bela/</link>
+        <guid isPermaLink="true">http://robertjack.org/2019/05/11/bela/</guid>
+        
+        <category>INSTRUMENTS</category>
         
         
       </item>
@@ -358,26 +349,11 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://conductivemusic.uk/&quot;&gt;Conductive Music website&lt;/a&gt; is a treasure trove of teaching and learning resources which are freely available to explore.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/conductive-music/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/conductive-music/</guid>
+        <pubDate>Fri, 11 May 2018 00:00:00 +0200</pubDate>
+        <link>http://robertjack.org/2018/05/11/conductive-music/</link>
+        <guid isPermaLink="true">http://robertjack.org/2018/05/11/conductive-music/</guid>
         
         <category>RESEARCH &amp; TEACHING</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bela | Create Beautiful Interaction</title>
-        <description>&lt;p&gt;I am one of the creators and directors of Bela, a maker board for designing musical instruments. Read all about Bela on our website at &lt;a href=&quot;https://bela.io&quot;&gt;bela.io&lt;/a&gt; or have a look at &lt;a href=&quot;https://blog.bela.io&quot;&gt;blog.bela.io&lt;/a&gt; for wonderful projects built with Bela from all around the world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/bela/airharp.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 11 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2019/05/11/bela/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/11/bela/</guid>
-        
-        <category>INSTRUMENTS</category>
         
         
       </item>
@@ -388,13 +364,17 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n1KzrFGsQ7g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;At the heart of the placement project was an inquiry into how the Henry Willis organ at Union Chapel can be made accessible – by way of augmentation, translation or enhancement – to the deaf and hard of hearing community in Islington. The goal was the development of technologies aimed at expressing sound through tactile vibration. The research produced prototypes of extended listening devices for feeling sound. As a culmination of this research project I had the pleasure of co-curating an event at the chapel with Claire M Singer of the Organ Project. The evening entitled the Organ of Corti featured low frequency, inter-sensory new music for organ and electronics and showcased the prototype devices.&lt;/p&gt;
+&lt;p&gt;At the heart of the placement project was an inquiry into how the Henry Willis organ at Union Chapel can be made accessible – by way of augmentation, translation or enhancement – to the deaf and hard of hearing community in Islington. The goal was the development of technologies aimed at expressing sound through tactile vibration.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/corti/registers.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/corti/chair-mapping.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The research produced prototypes of extended listening devices for feeling sound. As a culmination of this research project I had the pleasure of co-curating an event at the chapel with Claire M Singer of the Organ Project. The evening entitled the Organ of Corti featured low frequency, inter-sensory new music for organ and electronics and showcased the prototype devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/corti/registers.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Oct 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2014/10/10/union-chapel-organ-of-corti/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/10/10/union-chapel-organ-of-corti/</guid>
+        <link>http://robertjack.org/2014/10/10/union-chapel-organ-of-corti/</link>
+        <guid isPermaLink="true">http://robertjack.org/2014/10/10/union-chapel-organ-of-corti/</guid>
         
         <category>SOUND</category>
         
@@ -404,26 +384,26 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
       </item>
     
       <item>
-        <title>Seminary | Audio-visual</title>
-        <description>&lt;p&gt;Seminary (2012) was created from video and sound recordings from the ruin of St Peter’s Seminary in Cardross (Argyll), one of Scotland’s best examples of Brutalist architecture and one of Europe’s greatest Modernist buildings. Built by the Scottish Catholic Church in 1964 as a school and retreat for their trainee priests the building functioned for under twenty years and has since been left to slowly decay into the surrounding Kilmahew woodland.&lt;/p&gt;
+        <title>Seminary | Audio-visual Installation</title>
+        <description>&lt;p&gt;Seminary (2012) was created from video and sound recordings from the ruin of St Peter’s Seminary in Cardross (Argyll), one of Scotland’s best examples of Brutalist architecture and one of Europe’s greatest Modernist buildings.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/57388651?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;640&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/109050472?h=dd06ca6c96&amp;amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;speed=0&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479/embed&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/seminary/car.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Built by the Scottish Catholic Church in 1964 as a school and retreat for their trainee priests the building functioned for under twenty years and has since been left to slowly decay into the surrounding Kilmahew woodland. This work is a two screen installation which features new footage of the ruin captured by David Jack alongside a mute video from the opening of St Peter’s Seminary which was found in the Scottish Screen Archive. I composed the electroacoustic sound track and edited and montaged the final video sequence.&lt;/p&gt;
 
-&lt;p&gt;This work is the culmination of a research project created as part of NVA’s Invisible College, an investigative network that links local people, world-class academics, artists, activists and writers that all take inspiration from Kilmahew Woods and St Peter’s Seminary. NVA are leading a campaign to halt the processes of ruination that are soon going to bring the building past a point of no return. They currently have a capital programme in place that aims to transform the site into a base of international research and learning for Scotland.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/seminary/car.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/seminary/construction.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/seminary/construction.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/seminary/seminary_sz.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;With kind thanks to: NVA, The Scottish Screen Archive, David Jack (film), John Levack Drever, James Bulley, Kathrine Sandys&lt;/p&gt;
+&lt;p&gt;With kind thanks to: NVA, The Scottish Screen Archive, David Jack (film), John Levack Drever, James Bulley, Kathrine Sandys.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/seminary/interior.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2014/05/11/seminary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/05/11/seminary/</guid>
+        <link>http://robertjack.org/2014/05/11/seminary/</link>
+        <guid isPermaLink="true">http://robertjack.org/2014/05/11/seminary/</guid>
         
         <category>SOUND</category>
         
@@ -432,19 +412,17 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
     
       <item>
         <title>Memorial Modernism | Documentary</title>
-        <description>&lt;p&gt;Memorial Modernism (2014) is a documentary film made in collaboration with Alessia Milo and Vishal Soni. This short documentary presents interviews conducted with Angus Farquar (NVA, The Invisible College), Catherine Croft (20th Centrury Society) and David Pinder (Author of Visions of the City: Utopianism, Power and Politics in Twentieth-Century Urbanism) in combination with footage shot at the site of St Peter’s Seminary. The documentary investigates the re-evalution of modernist architecture in the 21st Century in all its social, cultural and political significance.&lt;/p&gt;
+        <description>&lt;p&gt;Memorial Modernism (2014) is a documentary film made in collaboration with Alessia Milo and Vishal Soni.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/91423337?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;640&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/memorial/seminary-full.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This short documentary presents interviews conducted with Angus Farquar (NVA, The Invisible College), Catherine Croft (20th Centrury Society) and David Pinder (Author of Visions of the City: Utopianism, Power and Politics in Twentieth-Century Urbanism) in combination with footage shot at the site of St Peter’s Seminary. The documentary investigates the re-evalution of modernist architecture in the 21st Century in all its social, cultural and political significance.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/memorial/Angus.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/memorial/catherine.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/memorial/seminary-full.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 May 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2014/05/11/memorial-modernism/</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/05/11/memorial-modernism/</guid>
+        <link>http://robertjack.org/2014/05/11/memorial-modernism/</link>
+        <guid isPermaLink="true">http://robertjack.org/2014/05/11/memorial-modernism/</guid>
         
         <category>SOUND</category>
         
@@ -453,16 +431,15 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
     
       <item>
         <title>Zitta | Augmented Zither</title>
-        <description>&lt;p&gt;Zitta (2013) is an electroacoustic augmented zither created as part of the Interactive Digital Multimedia Techniques course led by Andrew MacPherson at Queen Mary, University of London. Audio processes applied to the acoustic sound of the zither are then transduced directly through the body of the zither itself using tactile actuators. This allows acoustic feedback lines to establish themselves and resonate the wooden body of the instrument.&lt;/p&gt;
+        <description>&lt;p&gt;Zitta (2013) is an electroacoustic augmented zither.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/81628512&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;hr /&gt;
-
+&lt;p&gt;Created as part of the Interactive Digital Multimedia Techniques course led by Andrew MacPherson at Queen Mary, University of London. Audio processes applied to the acoustic sound of the zither are then transduced directly through the body of the zither itself using tactile actuators. This allows acoustic feedback lines to establish themselves and resonate the wooden body of the instrument.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2013/10/10/zitta-electroacoustic-zither/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/10/10/zitta-electroacoustic-zither/</guid>
+        <link>http://robertjack.org/2013/10/10/zitta-electroacoustic-zither/</link>
+        <guid isPermaLink="true">http://robertjack.org/2013/10/10/zitta-electroacoustic-zither/</guid>
         
         <category>INSTRUMENTS</category>
         
@@ -471,20 +448,17 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
     
       <item>
         <title>Gelmetti Machine | Feedback Instrument</title>
-        <description>&lt;p&gt;The Gelmetti Machine is a software instrument developed in Max/MSP that simulates the sound of no-input mixing. Once triggered by an impulse response the feedback system wavers around, and settles upon, feedback lines from speaker to microphone. Inspired and named after Vittorio Gelmetti the electroacoustic composer who worked with Michelangelo Antonioni on the film Deserto Rosso, the Gelmetti Machine is designed as a tool for generating Gelmetti’s signature atmospheres and sonic ambiences.&lt;/p&gt;
-
-&lt;p&gt;Excepts of the software in an installation context see below:&lt;/p&gt;
+        <description>&lt;p&gt;The Gelmetti Machine is a software instrument developed in Max/MSP that simulates the sound of no-input mixing.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F77305781&quot;&gt;&lt;/iframe&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F77305780&quot;&gt;&lt;/iframe&gt;
 &lt;iframe width=&quot;100%&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F77305778&quot;&gt;&lt;/iframe&gt;
 
-&lt;hr /&gt;
-
+&lt;p&gt;Once triggered by an impulse response the feedback system wavers around, and settles upon, feedback lines from speaker to microphone. Inspired and named after Vittorio Gelmetti the electroacoustic composer who worked with Michelangelo Antonioni on the film Deserto Rosso, the Gelmetti Machine is designed as a tool for generating Gelmetti’s signature atmospheres and sonic ambiences. Excepts of the software in an installation context are above.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2013/10/10/gelmetti-machine/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/10/10/gelmetti-machine/</guid>
+        <link>http://robertjack.org/2013/10/10/gelmetti-machine/</link>
+        <guid isPermaLink="true">http://robertjack.org/2013/10/10/gelmetti-machine/</guid>
         
         <category>INSTRUMENTS</category>
         
@@ -495,7 +469,7 @@ Chinese Collection, KODE Art Museum, Bergen&lt;/p&gt;
         <title>Laurie Grove Baths | Audio-visual</title>
         <description>&lt;p&gt;Laurie Grove Baths (2011) is a site-specific sound piece made for the water tanks of the Victorian Laurie Grove Baths in New Cross, South-East London. The tanks were part of a proposed redevelopment as part of Goldsmiths College, University of London  which has now become the &lt;a href=&quot;https://www.gold.ac.uk/goldsmithscca/&quot;&gt;Goldsmiths Centre for Contemporary Art&lt;/a&gt;. This audiovisual work surveys and imagines future uses for the space the way it stood in 2011. The base material for this work was gathered over four days of acoustic surveys, site recordings and filming in the tanks, whose cast iron structure lends them a unique reverberant quality.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/35544943?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;640&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/35544943?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The project culminated in the playback of the piece as a quadriphonic audio installation, paired with projections of architectural details of the tanks: the acoustic properties of the space and the sound of nearby New Cross Road were used to bring the tanks momentarily alive as a reverb chamber and site of concentrated listening.&lt;/p&gt;
 
@@ -505,11 +479,11 @@ Goldsmiths Estates and Facilities Department
 &lt;a href=&quot;https://ainbailey.tumblr.com/&quot;&gt;Ain Bailey&lt;/a&gt;
 Craig McCartney&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/laurie/laurie-detail.png#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/laurie/laurie-detail.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2013/10/10/laurie-grove-baths/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/10/10/laurie-grove-baths/</guid>
+        <link>http://robertjack.org/2013/10/10/laurie-grove-baths/</link>
+        <guid isPermaLink="true">http://robertjack.org/2013/10/10/laurie-grove-baths/</guid>
         
         <category>SOUND</category>
         
@@ -535,8 +509,8 @@ Craig McCartney&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/international-western/works-cold-room.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Jun 2012 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2012/06/10/international-western/</link>
-        <guid isPermaLink="true">http://localhost:4000/2012/06/10/international-western/</guid>
+        <link>http://robertjack.org/2012/06/10/international-western/</link>
+        <guid isPermaLink="true">http://robertjack.org/2012/06/10/international-western/</guid>
         
         <category>SOUND</category>
         
@@ -545,9 +519,11 @@ Craig McCartney&lt;/p&gt;
     
       <item>
         <title>Panorama Kvaeol Kopokonan | Audio-visual</title>
-        <description>&lt;p&gt;Panorama Kvaeol Kopokonan (2011) was created with choreographer Jona Kristen Thomsen and focuses on the dynamics of weather systems approaching the West side of the Faroe Isles in contrast with the human body in the landscape. The piece has been shown at Trinity Laban, London and at Nordic House Greenland. Three videos, each with their own audio track, are projected on screens made from sailcloth. The footage can be viewed from both sides, allowing the audience to move freely around the three hovering screens: the sound and the video-montage are designed to match the monumental pace of the moving weather systems and the body of the dancer falling in and out of frame.&lt;/p&gt;
+        <description>&lt;p&gt;Panorama Kvaeol Kopokonan (2011) was created with choreographer Jona Kristen Thomsen and focuses on the dynamics of weather systems approaching the West side of the Faroe Isles in contrast with the human body in the landscape. I created a quadrophonic sound design.&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/35540444?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;640&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The piece has been shown at Trinity Laban, London and at Nordic House Greenland. Three videos, each with their own audio track, are projected on screens made from sailcloth. The footage can be viewed from both sides, allowing the audience to move freely around the three hovering screens: the sound and the video-montage are designed to match the monumental pace of the moving weather systems and the body of the dancer falling in and out of frame.&lt;/p&gt;
 
 &lt;p&gt;With kind thanks to:
 Trinity Laban
@@ -555,8 +531,8 @@ Nordic Institute of Greenland (NAPA)
 Jona Kristen Thomsen&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2011 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2011/06/10/kvaeol-kopokonan/</link>
-        <guid isPermaLink="true">http://localhost:4000/2011/06/10/kvaeol-kopokonan/</guid>
+        <link>http://robertjack.org/2011/06/10/kvaeol-kopokonan/</link>
+        <guid isPermaLink="true">http://robertjack.org/2011/06/10/kvaeol-kopokonan/</guid>
         
         <category>SOUND</category>
         
