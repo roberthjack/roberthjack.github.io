@@ -1,1 +1,1 @@
-Sitemap: http://robertjack.org/https://roberthjack.github.io/sitemap.xml
+Sitemap: https://roberthjack.github.io//sitemap.xml
